@@ -1,5 +1,6 @@
 # Telegram-bot
-It is a telegram-bot that working like storage of films, cartoons, and other types of content.
-You can add already watched and read conten or mark what you want to examine later or re-read/re-watch. 
-Also, you can ask a suggestion about what you can watch now (with different filters).
-You can add your progress of reading/watching and follow him.
+It is a telegram-bot that working as your personal diary.
+You can add, delete, check and update events which storage in a database.
+Also, this bot will send you notifications about your events which depend on the priorities of events.
+You can read more about this bot in telegram where his name is ()
+This bot can work with a lot of users.
